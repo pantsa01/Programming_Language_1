@@ -27,7 +27,7 @@ We are given N numbered cities and M paths which connect (some of) those cities.
 | ....    |
 |Am Bm Wm |
 
-> In the first line we give the number of cities (N) and number of paths(M). Then, for M lines we define each path: Ax is the starting city, Bx is the ending city and Wx is the amount of gas required from start to finish.
+> In the first line we give the number of cities (N) and number of paths (M). Then, for M lines we define each path: Ax is the starting city, Bx is the ending city and Wx is the amount of gas required from start to finish.
 
 #### 	For C++
 Compile the source code and run:
